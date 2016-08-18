@@ -8,7 +8,7 @@ This class is a synchronous, face-to-face course. This course will build a pract
 
 Students will first learn how to use the Python programming language, with a focus on specific aspects of the language and associated Python modules that are relevant for Data Science. Python will be introduced and used primarily via the IPython (or Jupyter) Notebooks, and will cover the Numpy, Scipy, MatPlotlib, Pandas, and Seaborn, Python modules. These capabilities will be demonstrated through simple data science tasks such as obtaining data, cleaning data, visualizing data, and basic data analysis. In addition, studens will learn how to work at a Unix command prompt, including how to use source code control software like git and the github site. 
 
-Students must have access to a fairly modern computer, with a modern web browser to work with the course websites and course [JupyterHUb server](datascience.business.illinois.edu).
+Students must have access to a fairly modern computer, with a modern web browser to work with the course websites and course [JupyterHUb server](http://datascience.business.illinois.edu).
 
 This class is restricted to MAS students pursuing the data analytics concentration in Accountancy program.
 
