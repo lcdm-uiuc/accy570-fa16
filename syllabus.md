@@ -223,9 +223,9 @@ are due.
 | ---  | ---  | ---     |
 | Week Opens | 0 | Monday, 12:00 am |
 | Lecture 1 | 0 | Monday, 9:30-10:50 am |
-| Lecture 2 (When used for 570) | 0 | Monday, 11:00 am - 12:20 pm |
+| Lecture 2 (when used for 570) | 0 | Monday, 11:00 am - 12:20 pm |
 | Lecture 3 | 2 | Wednesday, 9:30-10:50 am |
-| Lecture 4 (When used for 570)| 2 | Wednesday, 11:00 am - 12:20 pm|
+| Lecture 4 (when used for 570)| 2 | Wednesday, 11:00 am - 12:20 pm|
 | Assignment Collected  | 7 |  *The following* Monday, 6:00 pm |
 | Assignments distributed for Peer Assessment  | 8 |  *The following* Tuesday, 1:00 pm |
 | Peer Assessment Deadline  | 12 |  *The following* Saturday, 6:00 pm |
