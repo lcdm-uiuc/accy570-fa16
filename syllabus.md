@@ -242,8 +242,8 @@ The following table provides the full set of deadlines for ACCY 570.
 
 | Date	| Item	| Time |
 | --- | --- | --- |
-| Wed. Aug 24, 2016	| | HW#1 Out	| 9:00 AM |
-| Tue. Aug 30, 2016	| | HW#1 In	| 6:00 PM |
+| Wed. Aug 24, 2016	| HW#1 Out	| 9:00 AM |
+| Tue. Aug 30, 2016	| HW#1 In	| 6:00 PM |
 | Wed. Aug 31, 2016	| HW#2 Out	| 9:00 AM |
 | Fri. Sep 2, 2016	| HW#1 Peer	| 6:00 PM |
 | Tue. Sep 6, 2016	| HW#2 In	| 6:00 PM |
