@@ -1,36 +1,34 @@
-# Week 1 Lesson 3 #
-## The Unix File System ##
+# Week 1 Lesson 4 #
+## Python: Conditional Statements & Iteration ##
 
-In this lesson you will begin working at the Unix prompt in order to
-interact with the Unix file system and work with
-files and processes.
+In this lesson, you will focus on the details of writing and using
+functions in a Python program (we will stay within the IPython notebook,
+primarily, although you can experiment with writing and executing Python
+programs in a file). First, you will learn about conditional
+programming. Next, you will learn how to write a function that returns
+one or more values. Finally, you will learn about iteration and
+algorithm design. 
 
-### Objectives ###
+###Objectives ###
+
 By the end of this lesson, you will be able to:
 
-- Understand the basic Unix file system.
-- Be able to create, copy, move, and delete files and directories.
+- Write and use conditional statements in Python.
+- Write Python functions that return data.
+- Write and use iteration statements in Python.
 
 ### Time Estimate###
 
-Approximately 2 hours.
+Approximately 3 hours.
 
-### Readings ###
+### Readings ####
 
-- Read chapters 3-4 from the free book [The Linux Command Line
-(PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp), Second
-Internet Edition, by William E. Shotts, Jr. 
-- Follow along by entering the commands as directed into a terminal
-window within your Docker container.
-- Explore the INFO490 Course [Introduction to Unix](notebooks/introduction2unix.ipynb) Notebook
- 
-#### *Optional Additional Readings* ####
-- [Guide to Unix/Why Unix-like](https://en.wikibooks.org/wiki/Guide_to_Unix/Why_Unix-like)
-- [Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-- [Introduction to Linux: A Hands-on Guide](http://www.tldp.org/LDP/intro-linux/html/index.html)
+- Chapters 5-7 in [Think Python](http://greenteapress.com/thinkpython2/html/index.html).
+- Python [Flow Control](notebooks/flowcontrolpy.ipynb) Notebook.
 
-### Assessment ###
+## Optional Readings ##
 
-When you have completed and worked through the above readings, please
-take the [Week 1 Lesson 3
-Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095470).
+- Chapter 5 of [Python Essentials](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781784390341/python-essentials/ch05_html#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODE3ODQzOTAzNDElMkZjaDA1X2h0bWwmcXVlcnk9Y29uZGl0aW9uYWwlMjBzdGF0ZW1lbnRz), which deals with Logic, Comparisons and Conditions.
+- Chapter 2 of [Automate the Boring Stuff with Python](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781457189906)
+
+-----

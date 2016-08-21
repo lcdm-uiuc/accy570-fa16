@@ -1,14 +1,16 @@
 # Week 1 Lesson 2 #
-## The Unix Shell ##
+## Basic Python Programming ##
 
-In this lesson you will begin working at the Unix prompt in order to
-understand the bash shell, which is one of the more commonly used 
-interfaces to Unix systems.
+In this lesson, you will learn about the Python Programming Language. Specifically, you will learn the basics of Python terminology, and the difference between various kinds of errors you will encounter through coding in Python.  Next, you will explore the various data types found in Python and learn how to apply simple operations (such as addition, subtraction, etc.) to Python variables.
 
 ### Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand how to work at the Unix command prompt.
+- Know basic Python terminology, such as input, output, debugging, etc.
+- Know the difference between the different types of errors.
+- Write Python statements by using the Notebook interface
+- Describe the basic data types provided by the Python language.
+- Perform basic operations on Python variables.
 
 ### Time Estimate###
 
@@ -16,23 +18,16 @@ Approximately 2 hours.
 
 ### Readings ###
 
-- Read chapters 1-2 from the free book [The Linux Command Line
-(PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp), Second
-Internet Edition, by William E. Shotts, Jr. 
-- Follow along by entering the commands as directed into a terminal
-window on the course JupyterHub server.
-- Explore the INFO490 Course [Introduction to Unix](notebooks/introduction2unix.ipynb) Notebook
+- [Introduction to the Python Programming Language](notebooks/intro2py.ipynb)
+- Read Chapters 1-2 in [Think Python](http://greenteapress.com/thinkpython2/html/index.html).
+    - Try out Python commands and code snippets in a new IPython Notebook.
  
 #### *Optional Additional Readings* ####
-- [Guide to Unix/Why Unix-like](https://en.wikibooks.org/wiki/Guide_to_Unix/Why_Unix-like)
-- [Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-- [Introduction to Linux: A Hands-on Guide](http://www.tldp.org/LDP/intro-linux/html/index.html)
+- Several free books, mostly written for Python 2:
+	- [Open Tech School's Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
+	- [Invent with Python](http://inventwithpython.com/)
+	- [Building Skills in Programming](http://www.itmaybeahack.com/homepage/books/)
+	- [Learn Python The Hard Way, 3rd Edition](http://learnpythonthehardway.org/book/)
+	- [A Byte of Python](http://www.ibiblio.org/g2swap/byteofpython/read/)
 
-### Assessment ###
-
-When you have completed and worked through the above readings, please
-take the [Week 1 Lesson 2
-Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095473).
-
-
-
+-----
