@@ -1,7 +1,5 @@
 # Homework 1
 
-![](../../images/Draft_Version_picture.png)
-
 ## Activating the assignments tab
 
 To view and submit your assignments, you have to use the assignment tab on
