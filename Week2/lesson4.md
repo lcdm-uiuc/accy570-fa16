@@ -1,36 +1,35 @@
-# Week 1 Lesson 3 #
-## The Unix File System ##
+# Week 2 Lesson 4 #
+## Introduction to Numpy ##
 
-In this lesson you will begin working at the Unix prompt in order to
-interact with the Unix file system and work with
-files and processes.
+In this lesson, you will learn to work with the Numpy library, which
+brings fast numerical arrays and matrices to the Python programming
+language. You will learn how to create numnpy arrays, how to quantify
+the basic details about an existing array, how to index and slice these
+arrays, and how to apply (universal) functions to array data quickly.
+Finally, you will learn how to change the shape of an array, and how to
+make shallow and deep copies of an array.
 
-### Objectives ###
+###Objectives ###
+
 By the end of this lesson, you will be able to:
 
-- Understand the basic Unix file system.
-- Be able to create, copy, move, and delete files and directories.
+- Understand how to create and use a Numpy array.
+- Understand how to index into and slice a Numpy array.
+- Understand what a ufunc is and how to apply them to a Numpy array.
+- Understand how to modify and copy a Numpy array.
 
-### Time Estimate###
+### Time Estimate ###
 
-Approximately 2 hours.
+Approximately 3 hours.
 
-### Readings ###
+### Readings ####
 
-- Read chapters 3-4 from the free book [The Linux Command Line
-(PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp), Second
-Internet Edition, by William E. Shotts, Jr. 
-- Follow along by entering the commands as directed into a terminal
-window within your Docker container.
-- Explore the INFO490 Course [Introduction to Unix](notebooks/introduction2unix.ipynb) Notebook
- 
-#### *Optional Additional Readings* ####
-- [Guide to Unix/Why Unix-like](https://en.wikibooks.org/wiki/Guide_to_Unix/Why_Unix-like)
-- [Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-- [Introduction to Linux: A Hands-on Guide](http://www.tldp.org/LDP/intro-linux/html/index.html)
+- [Introduction to Numpy](notebooks/intro2numpy.ipynb) IPython Notebook
 
-### Assessment ###
+- [Numpy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial) (Chapters 1-4 only) 
+or backup link to [Numpy Tutorial](http://www.cs.man.ac.uk/~barry/mydocs/MyCOMP28512/MS15_Notes/PyRefs/Tentative_NumPy_Tutorial.pdf) if the main site is down.
 
-When you have completed and worked through the above readings, please
-take the [Week 1 Lesson 3
-Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095470).
+#### *Optional Additional Readings*####
+
+- Numpy [Cookbook](http://wiki.scipy.org/Cookbook#head-198bd222c6438301ada793ad63e0b5384ab10308)
+- Short [Numpy Overview](http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part0-Intro2NumPy.ipynb)
