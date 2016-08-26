@@ -22,7 +22,7 @@ By the end of this lesson, you will:
 
 Approximately 2 hours.
 
-- Chapter 8-13 [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf)
+- Chapter 8-13 [Think Python](http://greenteapress.com/thinkpython2/html/index.html)
 - Python [Data Structures I](notebooks/pydatastructures.ipynb) Notebook.
 - Python [Data Structures II](notebooks/pydatastructures2.ipynb) Notebook.
 
