@@ -14,13 +14,9 @@ In this week, you will then delve into the wondrous world of lists, dictionaries
 
 |Activities and Assignments | Time Estimate | Deadline* | 
 |:------| -----|----------:|
-|**[Week 2 Introduction Video][wv]** | 10 Minutes | Tuesday |
 |**[Week 2 Lesson 1: Python: Basic Data Structures](lesson1.md)**| 2 Hours |Thursday|
 |**[Week 2 Lesson 2: Python: File IO](lesson2.md)**| 2 Hours | Thursday | 
 |**[Week 2 Lesson 3: Python: Introduction to Pandas](lesson3.md)**| 2 Hours | Thursday| 
 |**[Week 2 Lesson 4: Python: Introduction to Numpy](lesson4.md)**| 2 Hours | Thursday| 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
-
-----------
-[wv]: https://mediaspace.illinois.edu/media/
