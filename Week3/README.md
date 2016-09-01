@@ -17,10 +17,10 @@ The lessons this week will focus on learning about data visualizations and data 
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline* | Points|
-|:------| -----|-------|----------:|
-|**[Week 3 Lesson 1: Introduction to Data Visualizations](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 3 Lesson 2: Introduction to Data Formats](lesson2.md)**| 2 Hours | Thursday | 20 |
+|Activities and Assignments | Time Estimate | Deadline* |
+|:------| -----|----------:|
+|**[Week 3 Lesson 1: Introduction to Data Visualizations](lesson1.md)**| 4 Hours |Thursday|
+|**[Week 3 Lesson 2: Introduction to Data Formats](lesson2.md)**| 4 Hours | Thursday |
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
