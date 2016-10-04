@@ -2,3 +2,8 @@
 .DS_Store
 
 Week4/notebook/.ipynb_checkpoints/intro2dataviz-checkpoint.ipynb
+
+.ipynb_checkpoints
+.pyc
+__pycache__
+
