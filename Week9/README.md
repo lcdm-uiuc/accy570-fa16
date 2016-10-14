@@ -1,25 +1,26 @@
-#Week X: #
+# Week 9 Overview #
+![XKCD Extrapolating](images/regular_expressions.png)
+## Introduction to Regular Expressions ##
+
+In this week, you will begin to use Python and Unix to learn about regular expressions and their associated commands so that you can search through text more effectively.
+
 ### Objectives ###
 
-![Unix Image](../images/Draft_Version_picture.png)
+#####By the end of this lesson, you should accomplish the following learning objectives:######
 
-#####By the end of this lesson, you should be able to:######
+- Understand how to use the sub, search, and compile functions within the re library.
+- Understand how to effectively specify the position and structure of the string you are searching for by using ```\b, ^, $, \d, \D, ?, *, +, {n,m}, (a|b),``` etc.
 
-- Know 
-- Understand 
-- Understand 
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline* | Points|
+|Activities and Assignments | Time Estimate | Deadline* |
 |:------| -----|-------|----------:|
-|**[Week X Introduction Video][wv]** | 10 Minutes | Tuesday |NA|
-|**[Week X Lesson 1: ](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week X Lesson 2: ](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week X Lesson 3: ](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**Week X Quiz**| 30 Minutes | Friday | 40|
+
+|**[Week 6 Lesson 1: Introduction to Regular Expressions](lesson1.md)**| 3 Hours | Thursday |
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+
+Photo Credit: [Regular Expressions Comic](http://xkcd.com/208/) by Randall Monroe. Accessed on the 23 of September.
