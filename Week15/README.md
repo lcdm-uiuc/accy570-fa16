@@ -20,8 +20,8 @@ using Python. First, you will learn about web pages, and how to programmatically
 
 |Activities and Assignments | Time Estimate | Deadline* | 
 |:------| -----|---------:|
-|**[Week 14 Lesson 1: Python: Web Scraping](lesson1.md)**| 3 Hours | Monday|
-|**[Week 14 Lesson 2: Python: Data Science example](lesson2.md)**| 3 Hours |Wednesday|
+|**[Week 15 Lesson 1: Python: Web Scraping](lesson1.md)**| 3 Hours | Monday|
+|**[Week 15 Lesson 2: Python: Data Science example](lesson2.md)**| 3 Hours |Wednesday|
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
