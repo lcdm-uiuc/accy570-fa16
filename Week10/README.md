@@ -19,10 +19,8 @@ The lessons this week will focus on learning how to use: networking commands ins
 
 |Activities and Assignments | Time Estimate | Deadline* |
 |:------| -----|--------:|
-|**[Week 10 Lesson 1: Unix: Networking and Basic Commands](lesson1.md)**| 2 Hours |Thursday|
-|**[Week 10 Lesson 2:Unix Text Processing](lesson2.md)**| 3 Hours | Thursday|
-|**Week 10 Assignment Submission**| 3 Hours | *The following*  Monday | 
-|**Week 10 Completion of Peer Review**| 1 Hour | *The following* Saturday |
+|**[Week 10 Lesson 1: Unix: Networking and Basic Commands](lesson1.md)**| 2 Hours |Monday|
+|**[Week 10 Lesson 2:Unix Text Processing](lesson2.md)**| 3 Hours | Wednesday|
 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
