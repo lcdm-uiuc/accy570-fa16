@@ -1,7 +1,7 @@
 #Week 10 Overview#
 
 ![XKCD sustainability comic](images/xkcd_sustainable.png)
-## Networking and File Input/Output ##
+## Unix Networking and Text Processing ##
 
 The lessons this week will focus on learning how to use: networking commands inside of Unix, such as ping, netstat, etc.; archiving/compression commands in Unix; and commands used to find files using given criteria. To finish up, you will learn about Unix text processing so that you can better modify and glean information from lines and files of text.
 
