@@ -1,11 +1,11 @@
-#Week 1: Introduction to Data Analytics #
+# Week 1: Introduction to Data Analytics #
 ### Objectives ###
 
 ![Python Logo](images/python-logo.png)
 
 This week we will  first introduce the course material, servers, and syllabus, before discussing the basic concepts of data analytics, including the data lifecycle. The majority of this week will focus on learning the Python programming language so that you will be able to understand how to acquire, process, archive, visualize and learn from data.
 
-#####By the end of this week, you should be able to:######
+##### By the end of this week, you should be able to: ######
 
 - Understand the basics concepts behind data science
 - Know the key concepts in the data lifecycle
